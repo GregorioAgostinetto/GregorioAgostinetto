@@ -15,11 +15,11 @@
 
 ### 📊 Estatísticas e Atividade
 
-![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=Gregorio14izi&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=GregorioAgostinetto&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Gregorio14izi&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=GregorioAgostinetto&layout=compact&theme=tokyonight)
 
-![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Gregorio14izi&theme=tokyonight)
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=GregorioAgostinetto&theme=tokyonight)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GregorioAgostinetto&color=blueviolet&style=for-the-badge" alt="Contador de Visitas" />
